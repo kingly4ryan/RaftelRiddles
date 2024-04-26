@@ -1,0 +1,243 @@
+[
+    {
+      "question": "Who is the captain of the Straw Hat Pirates?",
+      "options": ["Luffy", "Zoro", "Nami", "Sanji"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of Luffy's signature attack?",
+      "options": ["Gum-Gum Pistol", "Gum-Gum Bazooka", "Gum-Gum Gatling", "Gum-Gum Red Hawk"],
+      "correctOption": 1
+    },
+    {
+      "question": "Who is known as the 'Pirate Hunter'?",
+      "options": ["Nami", "Sanji", "Zoro", "Usopp"],
+      "correctOption": 2
+    },
+    {
+      "question": "What is the name of the ship used by the Straw Hat Pirates?",
+      "options": ["Thousand Sunny", "Going Merry", "Red Force", "Baratie"],
+      "correctOption": 0
+    },
+    {
+      "question": "Who is Luffy's older brother?",
+      "options": ["Ace", "Sabo", "Law", "Shanks"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the main antagonist group in One Piece?",
+      "options": ["Blackbeard Pirates", "Big Mom Pirates", "Celestial Dragons", "World Government"],
+      "correctOption": 3
+    },
+    {
+      "question": "What is the name of the island where Luffy and his crew were separated for two years?",
+      "options": ["Dressrosa", "Whole Cake Island", "Sabaody Archipelago", "Punk Hazard"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is known as the 'Strongest Swordsman in the World'?",
+      "options": ["Mihawk", "Zoro", "Shanks", "Law"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of Nami's signature weapon?",
+      "options": ["Clima-Tact", "Black Sword", "Sword of Vows", "Haki Staff"],
+      "correctOption": 0
+    },
+    {
+      "question": "Who is known as the 'King of the Pirates'?",
+      "options": ["Luffy", "Roger", "Blackbeard", "Big Mom"],
+      "correctOption": 1
+    },
+    {
+      "question": "What is the name of the Devil Fruit that allows its user to become rubber?",
+      "options": ["Gomu Gomu no Mi", "Bara Bara no Mi", "Mera Mera no Mi", "Gura Gura no Mi"],
+      "correctOption": 0
+    },
+    {
+      "question": "Who is the current Fleet Admiral of the Marines?",
+      "options": ["Akainu", "Aokiji", "Kizaru", "Fujitora"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of Sanji's mentor who raised him?",
+      "options": ["Zeff", "Kizaru", "Yonji", "Niji"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the island where Luffy was born and raised?",
+      "options": ["Marineford", "Dressrosa", "Wano", "Foosha Village"],
+      "correctOption": 3
+    },
+    {
+      "question": "Who is the leader of the Revolutionary Army?",
+      "options": ["Dragon", "Sabo", "Kuma", "Ivankov"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the ancient weapons that could potentially destroy the world?",
+      "options": ["Pluton, Poseidon, Uranus", "Excalibur, Mjolnir, Masamune", "Durandal, Joyeuse, Caladbolg", "Balmung, Tizona, Kusanagi"],
+      "correctOption": 0
+    },
+    {
+      "question": "Who is the owner of the Baratie restaurant?",
+      "options": ["Sanji", "Zeff", "Yosaku", "Johnny"],
+      "correctOption": 1
+    },
+    {
+      "question": "What is the name of the island where Zoro trained under Mihawk?",
+      "options": ["Wano", "Water 7", "Kuraigana Island", "Elbaf"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is the captain of the Heart Pirates?",
+      "options": ["Kid", "Killer", "Bonney", "Law"],
+      "correctOption": 3
+    },
+    {
+      "question": "What is the name of the sea where the Red Line and the Grand Line intersect?",
+      "options": ["East Blue", "South Blue", "North Blue", "New World"],
+      "correctOption": 3
+    },
+    {
+      "question": "Who is known as the 'God of Destruction'?",
+      "options": ["Kaido", "Big Mom", "Whitebeard", "Blackbeard"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the ancient kingdom that existed during the Void Century?",
+      "options": ["Skypiea", "Ohara", "Alabasta", "Shandora"],
+      "correctOption": 3
+    },
+    {
+      "question": "Who is the doctor of the Straw Hat Pirates?",
+      "options": ["Chopper", "Nami", "Robin", "Franky"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the island where the Dressrosa Arc takes place?",
+      "options": ["Zou", "Punk Hazard", "Dressrosa", "Sabaody Archipelago"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is known as the 'Right Hand of the Pirate King'?",
+      "options": ["Shanks", "Rayleigh", "Mihawk", "Whitebeard"],
+      "correctOption": 1
+    },
+    {
+      "question": "What is the name of the island where Nami was raised by the Arlong Pirates?",
+      "options": ["Sabaody Archipelago", "Arlong Park", "Cocoyasi Village", "Fishman Island"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is the navigator of the Straw Hat Pirates?",
+      "options": ["Nami", "Robin", "Chopper", "Brook"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the island where Luffy trained under Rayleigh?",
+      "options": ["Amazon Lily", "Kuraigana Island", "Water 7", "Baltigo"],
+      "correctOption": 3
+    },
+    {
+      "question": "Who is the queen of Totto Land?",
+      "options": ["Nami", "Big Mom", "Robin", "Vivi"],
+      "correctOption": 1
+    },
+    {
+      "question": "What is the name of the island where the Whole Cake Island Arc takes place?",
+      "options": ["Zou", "Whole Cake Island", "Wano", "Marineford"],
+      "correctOption": 1
+    },
+    {
+      "question": "Who is the shipwright of the Straw Hat Pirates?",
+      "options": ["Franky", "Sanji", "Zoro", "Usopp"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the island where the Enies Lobby Arc takes place?",
+      "options": ["Alabasta", "Skypiea", "Water 7", "Punk Hazard"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is known as the 'Surgeon of Death'?",
+      "options": ["Bonney", "Hawkins", "Kidd", "Law"],
+      "correctOption": 3
+    },
+    {
+      "question": "What is the name of the island where the Marineford Arc takes place?",
+      "options": ["Punk Hazard", "Marineford", "Dressrosa", "Zou"],
+      "correctOption": 1
+    },
+    {
+      "question": "Who is known as the 'Death God'?",
+      "options": ["Law", "Kidd", "Hawkins", "Killer"],
+      "correctOption": 3
+    },
+    {
+      "question": "What is the name of the island where the Skypiea Arc takes place?",
+      "options": ["Alabasta", "Jaya", "Fishman Island", "Punk Hazard"],
+      "correctOption": 1
+    },
+    {
+      "question": "Who is the cook of the Straw Hat Pirates?",
+      "options": ["Sanji", "Luffy", "Zoro", "Usopp"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the island where the Thriller Bark Arc takes place?",
+      "options": ["Amazon Lily", "Thriller Bark", "Kuraigana Island", "Impel Down"],
+      "correctOption": 1
+    },
+    {
+      "question": "Who is the archaeologist of the Straw Hat Pirates?",
+      "options": ["Robin", "Nami", "Chopper", "Franky"],
+      "correctOption": 0
+    },
+    {
+      "question": "What is the name of the island where the Impel Down Arc takes place?",
+      "options": ["Amazon Lily", "Kuraigana Island", "Thriller Bark", "Impel Down"],
+      "correctOption": 3
+    },
+    {
+      "question": "Who is known as the 'Sky Knight'?",
+      "options": ["Luffy", "Zoro", "Sanji", "Usopp"],
+      "correctOption": 3
+    },
+    {
+      "question": "What is the name of the island where the Alabasta Arc takes place?",
+      "options": ["Water 7", "Punk Hazard", "Alabasta", "Sabaody Archipelago"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is known as the 'Sniper King'?",
+      "options": ["Luffy", "Zoro", "Sanji", "Usopp"],
+      "correctOption": 3
+    },
+    {
+      "question": "What is the name of the island where the Drum Island Arc takes place?",
+      "options": ["Water 7", "Punk Hazard", "Drum Island", "Alabasta"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is known as the 'Gentleman Skeleton'?",
+      "options": ["Luffy", "Zoro", "Brook", "Franky"],
+      "correctOption": 2
+    },
+    {
+      "question": "What is the name of the island where the Fishman Island Arc takes place?",
+      "options": ["Water 7", "Punk Hazard", "Fishman Island", "Drum Island"],
+      "correctOption": 2
+    },
+    {
+      "question": "Who is known as the 'Black Leg'?",
+      "options": ["Luffy", "Zoro", "Sanji", "Usopp"],
+      "correctOption": 2
+    },
+    {
+      "question": "What is the name of the island where the Punk Hazard Arc takes place?",
+      "options": ["Water 7", "Punk Hazard", "Fishman Island", "Drum Island"],
+      "correctOption": 1
+    }
+  ]
+  
